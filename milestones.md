@@ -1,3 +1,7 @@
+---
+icon: flag-swallowtail
+---
+
 # Milestones
 
 | TIMELINE     | EVENT                                                                 |
